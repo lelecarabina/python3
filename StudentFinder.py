@@ -7,13 +7,6 @@
 from Student import Student
 import random
 
-#Print method
-"""def contactPrint(arr, arr_size):
-    for x in range(arr_size): 
-        print("[{}] Name: {} - ID: {} - GPA: {}".format(arr[x].name, arr[x].id, arr[x].gpa))
-    # end for loop
-# end contactPrint()"""
-
 # "Files" to hold Student's fields 'name' and 'gpa' info
 gpas = [2.7, 3.0, 3.3, 3.7, 4.0]
 names = ["Albert Einstein",
