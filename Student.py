@@ -1,5 +1,5 @@
 #Filename Student.java
-#Written by Lelecarabina
+#Written by Lele B.
 #Written on Jul 14th, 2017
 #Class #12299 - Lesson 10
 #Re-written on 5/15/2019
