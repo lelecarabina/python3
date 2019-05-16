@@ -65,7 +65,7 @@ print("All Students:")
 for x in range(numStudents): 
     #name = from array 'names' id = incremental 1101 + x gpa = rand #, wraps around gpas length to restrict vals to only gpas' vals
     students[x] = (Student(names[x], (1101 + x), (gpas[rand]))) # constructor
-    print(students[x].name, students[x].id, students[x].gpa)
+    print(students[x].getName(), students[x].getId(), students[x].getGpa())
 
 
 #prompt user for input
