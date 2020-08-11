@@ -4,10 +4,9 @@ import pyperclip
 from datetime import datetime
 
 try:
-    x = 0
     t = datetime.now()
     tformatted = t.strftime("%m/%d/%Y, %H:%M:%S")
-    print(tformatted + '\nCopying text...[' + str(x) + ']') # Feedback
+    print(tformatted + '\nCopying text...) # Feedback
     save_path = '/Users/Lel/Dropbox/LeDesignPro/Leticia/Texts'
     file = os.path.join(save_path, 'le_python_clipboard.txt')     
     f= open(file, 'a')
