@@ -1,6 +1,5 @@
 import sys
 import os.path
-import keyboard
 import pyperclip
 from datetime import datetime
 
